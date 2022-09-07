@@ -14,3 +14,14 @@
  
  </div>
  <hr>
+<h2> :card_file_box: Estruturação Das Pastas.</h2>
+
+```bash
+C:.
+├───components
+│   ├───fonts
+│   │   └───specimen_files
+│   └───images
+└───styles
+```
+<br>
