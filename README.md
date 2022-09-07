@@ -1,6 +1,6 @@
 # DesafioMarketingCreativo
 
-## Paginas Desafios
+## Pagina Desafio
 
 ### 1 - Desafio Html/Css #Projeto MarketingCreativo
 ### Previa - Preview
